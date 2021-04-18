@@ -1,0 +1,10 @@
+planar_42v_69e.txt
+planar_46v_69e.txt
+planar_47v_72e.txt
+planar_48v_72e.txt
+planar_54v_64e.txt
+planar_54v_81e.txt
+planar_56v_84e.txt
+planar_58v_87e.txt
+planar_60v_90e.txt
+planar_64v_96e.txt
